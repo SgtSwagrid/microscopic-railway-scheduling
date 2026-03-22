@@ -18,4 +18,4 @@ There is, however, increasing interest in automated, algorithmic scheduling.
 Existing approaches are usually variants of an [MIP](https://en.wikipedia.org/wiki/Integer_programming)
 or [SMT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories) formulation.
 Because the problem is [NP-hard](https://en.wikipedia.org/wiki/NP-hardness), these approaches break down for larger instances.
-A novel approach is explored, whereby the problem is decomposed into smaller parts.
+Therefore, a novel approach is explored, whereby the problem is decomposed into smaller parts.
