@@ -1,6 +1,6 @@
 # 🚂 Microscopic Railway Scheduling: Combining MIP and SMT through Clustering and Hypergraph Duality
 
-The text for my Master's thesis at the ETH [Institut für Verkehrsplanung und Transportsysteme](https://www.ivt.ethz.ch/).
+The [text](Microscopic_Railway_Scheduling.pdf) for my Master's thesis at the ETH [Institut für Verkehrsplanung und Transportsysteme](https://www.ivt.ethz.ch/).
 
 ## Abstract
 
