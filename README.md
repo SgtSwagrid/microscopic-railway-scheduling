@@ -19,4 +19,4 @@ Existing approaches are usually variants of an [MIP](https://en.wikipedia.org/wi
 or [SMT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories) formulation.
 Because the problem is [NP-hard](https://en.wikipedia.org/wiki/NP-hardness), these approaches break down for larger instances.
 Therefore, a novel approach is explored, whereby the problem is decomposed into smaller parts.
-Existing MIP and SMT approaches are combined across multiple iterations so as to coordinate the different subproblems.
+Existing MIP and SMT approaches are combined across multiple iterations so as to coordinate different subproblems and obtain a global solution.
